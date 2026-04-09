@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
-import os
-os.system("pip install streamlit")
+
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="NovaWave CX Portal", layout="wide")
